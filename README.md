@@ -17,3 +17,17 @@
 <a href="https://stackoverflow.com/users/2774761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2774761" height="30" width="40" /></a>
 </p>
 
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/brugner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brugner&langs_count=10&theme=github_dark"/>
+</a>
+  </p>
+
+<p align="center">
+<a href="https://github.com/brugner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brugner&show_icons=true&theme=github_dark"/>
+</a>
+ </p>
