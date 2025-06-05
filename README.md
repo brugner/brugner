@@ -7,11 +7,6 @@
 
 <br />
 
-<p align="center">I regularly write articles on my blog (https://brugner.azurewebsites.net/blog).</p>
-<p align="center">Also, feel free to check my experiences in the About Me section.</p>
-
-<br />
-
 <p align="center">
 <a href="https://linkedin.com/in/brugner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brugner" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2774761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2774761" height="30" width="40" /></a>
